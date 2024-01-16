@@ -1,0 +1,19 @@
+2024-01-10 00:15:39,655 INFO c.c.s.UserService [http-nio-8099-exec-2] Fetching all users
+2024-01-10 00:16:03,044 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-7] Exception occurred: Validation failed for classes [com.capgemini.entity.User] during persist time for groups [jakarta.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Invalid email format', propertyPath=email, rootBeanClass=class com.capgemini.entity.User, messageTemplate='Invalid email format'}
+]
+2024-01-10 00:16:09,114 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-10] Exception occurred: Validation failed for classes [com.capgemini.entity.User] during persist time for groups [jakarta.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Invalid email format', propertyPath=email, rootBeanClass=class com.capgemini.entity.User, messageTemplate='Invalid email format'}
+]
+2024-01-10 00:16:53,742 INFO c.c.s.UserService [http-nio-8099-exec-4] Fetching all users
+2024-01-10 00:17:16,625 INFO c.c.s.UserService [http-nio-8099-exec-8] Finding user by ID: 13
+2024-01-10 00:17:39,703 INFO c.c.s.UserService [http-nio-8099-exec-2] Fetching user for client with ID: 13
+2024-01-10 00:17:55,089 INFO c.c.s.UserService [http-nio-8099-exec-3] Fetching user for client with ID: 13
+2024-01-10 00:19:33,017 INFO c.c.s.UserService [http-nio-8099-exec-10] Fetching all users
+2024-01-10 00:19:46,861 INFO c.c.s.UserService [http-nio-8099-exec-4] Fetching all users
+2024-01-10 00:20:14,178 INFO c.c.s.UserService [http-nio-8099-exec-8] Finding user by ID: 13
+2024-01-10 00:20:30,354 INFO c.c.s.UserService [http-nio-8099-exec-2] Fetching user for client with ID: 13
+2024-01-10 00:20:43,729 INFO c.c.s.UserService [http-nio-8099-exec-3] Finding user by ID: 13
+2024-01-10 16:20:48,744 INFO c.c.s.UserService [http-nio-8099-exec-10] Fetching all users

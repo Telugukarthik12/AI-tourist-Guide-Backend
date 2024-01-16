@@ -1,0 +1,47 @@
+2024-01-09 16:15:37,093 INFO c.c.s.UserService [http-nio-8099-exec-1] Registering user: karthikaaaaa
+2024-01-09 16:15:37,132 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-1] Exception occurred: No value present
+2024-01-09 16:16:17,223 INFO c.c.s.UserService [http-nio-8099-exec-2] Registering user: karthikaaaaa
+2024-01-09 16:16:17,229 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-2] Exception occurred: No value present
+2024-01-09 16:16:38,479 INFO c.c.s.UserService [http-nio-8099-exec-3] Registering user: karthikaaaaaa
+2024-01-09 16:16:38,488 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-3] Exception occurred: No value present
+2024-01-09 16:16:45,543 INFO c.c.s.UserService [http-nio-8099-exec-4] Registering user: karthikaaaaaaaaa
+2024-01-09 16:16:45,551 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-4] Exception occurred: No value present
+2024-01-09 16:17:18,105 INFO c.c.s.UserService [http-nio-8099-exec-5] Registering user: aaa
+2024-01-09 16:17:18,117 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-5] Exception occurred: No value present
+2024-01-09 16:19:35,528 INFO c.c.s.UserService [http-nio-8099-exec-1] Registering user: aaa
+2024-01-09 16:19:35,543 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-1] Exception occurred: No value present
+2024-01-09 16:19:57,366 INFO c.c.s.UserService [http-nio-8099-exec-2] Registering user: qqqqqqqqqq
+2024-01-09 16:19:57,374 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-2] Exception occurred: No value present
+2024-01-09 16:20:50,848 INFO c.c.s.UserService [http-nio-8099-exec-1] Registering user: qqqqqqqqqq
+2024-01-09 16:23:25,475 INFO c.c.s.UserService [http-nio-8099-exec-1] Registering user: qqqqqqqqqq
+2024-01-09 16:23:42,146 INFO c.c.s.UserService [http-nio-8099-exec-3] Registering user: qqqqqqqqqq
+2024-01-09 16:24:12,080 INFO c.c.s.UserService [http-nio-8099-exec-5] Registering user: qqqqqqqqqq
+2024-01-09 16:24:12,087 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-5] Exception occurred: No value present
+2024-01-09 16:24:25,636 INFO c.c.s.UserService [http-nio-8099-exec-6] Registering user: qqqqqqqqqqqq
+2024-01-09 16:24:25,646 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-6] Exception occurred: No value present
+2024-01-09 16:24:56,330 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-1] Exception occurred: No value present
+2024-01-09 16:25:31,845 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-3] Exception occurred: No value present
+2024-01-09 16:28:38,248 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-4] Exception occurred: No value present
+2024-01-09 16:28:40,864 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-5] Exception occurred: No value present
+2024-01-09 16:28:41,557 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-6] Exception occurred: No value present
+2024-01-09 16:28:41,947 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-7] Exception occurred: No value present
+2024-01-09 16:28:42,379 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-8] Exception occurred: No value present
+2024-01-09 16:28:42,786 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-9] Exception occurred: No value present
+2024-01-09 16:28:43,255 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-10] Exception occurred: No value present
+2024-01-09 16:28:43,637 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-1] Exception occurred: No value present
+2024-01-09 16:28:43,907 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-2] Exception occurred: No value present
+2024-01-09 16:28:44,210 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-3] Exception occurred: No value present
+2024-01-09 16:28:44,456 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-4] Exception occurred: No value present
+2024-01-09 16:28:44,747 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-5] Exception occurred: No value present
+2024-01-09 16:28:45,037 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-6] Exception occurred: No value present
+2024-01-09 16:28:45,375 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-7] Exception occurred: No value present
+2024-01-09 16:28:45,674 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-8] Exception occurred: No value present
+2024-01-09 16:28:46,010 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-9] Exception occurred: No value present
+2024-01-09 16:28:46,446 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-10] Exception occurred: No value present
+2024-01-09 16:28:47,029 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-1] Exception occurred: No value present
+2024-01-09 16:28:47,621 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-2] Exception occurred: No value present
+2024-01-09 16:30:40,270 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-1] Exception occurred: No value present
+2024-01-09 16:31:34,614 INFO c.c.s.UserService [http-nio-8099-exec-2] Fetching all users
+2024-01-09 16:36:15,658 INFO c.c.s.UserService [http-nio-8099-exec-2] Fetching all users
+2024-01-09 16:37:11,304 ERROR c.c.e.GlobalExceptions [http-nio-8099-exec-4] Exception occurred: identifier of an instance of com.capgemini.entity.User was altered from 0 to 8
+2024-01-09 16:39:14,506 INFO c.c.s.UserService [http-nio-8099-exec-2] Fetching all users
